@@ -1,0 +1,1 @@
+rename bins to bin to proper work of vendor blobs
